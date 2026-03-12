@@ -1,0 +1,2 @@
+# inspekce-app
+KB implementace
